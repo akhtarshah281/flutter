@@ -28,7 +28,7 @@ class _UpcomingMoviesState extends StateMVC<UpcomingMovies> {
         appBar: AppBar(
           centerTitle: true,
           title: const Text(
-            'Upcoming Movies',
+            'Upcoming Movie',
             textAlign: TextAlign.center,
           ),
         ),
